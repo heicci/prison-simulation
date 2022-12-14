@@ -1,3 +1,6 @@
+import random
+print("hello, prisoner game")
+#make prisoners
 prisoners=list(range(100))
 #print(prisoners)
 
